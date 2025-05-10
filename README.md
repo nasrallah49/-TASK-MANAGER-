@@ -19,10 +19,6 @@ Task App est une application de gestion de tâches développée avec **React Nat
    ```bash
    git clone https://github.com/nasrallah49/task-manager-app.git
    cd task-app
- Installez les dépendances :
- 2.npm install
- 3.Lancez l'application avec Expo 
-  `bash : expo start
 
 ## Structure du projet 📂
 ```bash
@@ -47,8 +43,7 @@ task-app/
 └── README.md                # Documentation du projet
 
 ## INFO
-```bash
-2.:
+
 Développé par Nasserallah Khadli
 Challenge pour le poste de Mobile Developer.
 
