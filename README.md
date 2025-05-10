@@ -25,7 +25,8 @@ Task App est une application de gestion de tâches développée avec **React Nat
   `bash : expo start
 
 ## Structure du projet 📂
-
+```bash
+1.:
 task-app/
 ├── app/                     # Gestion des routes et des écrans
 │   ├── (tabs)/              # Navigation par onglets
