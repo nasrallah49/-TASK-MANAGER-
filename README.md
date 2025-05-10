@@ -21,7 +21,7 @@ Suivez ces étapes pour installer et exécuter l'application localement :
    ```bash
    git clone https://github.com/nasrallah49/task-manager-app.git
    cd task-app
-*Installez les dépendances :
+Installez les dépendances :
   npm install
 
 ## 📂 Structure du projet
@@ -46,7 +46,7 @@ task-app/
 └── [README.md](http://_vscodecontentref_/3)                # Documentation du projet
 
 ##🛠️ Utilisation
-```bash
+
 Ajouter une tâche :
 
 Remplissez le champ "What's for the day?".
@@ -59,8 +59,8 @@ Supprimer une tâche :
 
 Cliquez sur une tâche pour la marquer comme terminée ou la supprimer.
 ##🛠️ Technologies utilisées
-```bash
+
 React Native : Framework pour le développement mobile.
 Expo : Plateforme pour simplifier le développement React Native.
 TypeScript : Typage statique pour JavaScript.
-React Context : Gestion de l'état global.
+React Context : Gestion de l état global.
