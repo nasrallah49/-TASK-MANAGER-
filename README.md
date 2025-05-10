@@ -47,6 +47,7 @@ task-app/
 └── README.md                # Documentation du projet
 
 ## INFO
+```bash
 2.:
 Développé par Nasserallah Khadli
 Challenge pour le poste de Mobile Developer.
