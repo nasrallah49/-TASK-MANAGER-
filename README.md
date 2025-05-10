@@ -17,17 +17,21 @@ Task App est une application de gestion de tâches développée avec **React Nat
 
 1. Clonez le dépôt :
    ```bash
-   git clone git clone https://github.com/nasrallah49/task-manager-app.git
+   git clone https://github.com/nasrallah49/task-manager-app.git
    cd task-app
+ Installez les dépendances : npm install
+ Lancez l'application avec Expo : expo start
 
-   "Structure du projet 📂"
-Voici un aperçu de la structure du projet :
+## Structure du projet 📂
+
 task-app/
 ├── app/                     # Gestion des routes et des écrans
 │   ├── (tabs)/              # Navigation par onglets
 │   │   ├── _layout.tsx      # Layout principal des onglets
 │   │   ├── index.tsx        # Écran principal (Home)
-réutilisables
+│   │   ├── explore.tsx      # (Supprimable) Onglet Explore
+│   │   └── not-found.tsx    # (Supprimable) Page 404
+│   ├── components/          # Composants réutilisables
 │   │   ├── TaskInput.tsx    # Composant pour ajouter une tâche
 │   │   ├── TaskList.tsx     # Composant pour afficher les tâches
 │   │   └── ...              # Autres composants
@@ -35,13 +39,11 @@ réutilisables
 ├── constants/               # Constantes globales (ex. couleurs)
 ├── hooks/                   # Hooks personnalisés
 ├── Context/                 # Gestion du contexte (ex. tâches)
-├── [package.json](http://_vscodecontentref_/2)             # Dépendances et scripts
-├── [app.json](http://_vscodecontentref_/3)                 # Configuration Expo
-└── [README.md](http://_vscodecontentref_/4)                # Documentation du projet
+├── package.json             # Dépendances et scripts
+├── app.json                 # Configuration Expo
+└── README.md                # Documentation du projet
 
-
-
-Auteur
+## INFO
 Développé par Nasserallah Khadli
 Challenge pour le poste de Mobile Developer.
 
