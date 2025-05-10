@@ -20,9 +20,10 @@ git clone https://github.com/nasrallah49/task-manager-app.git
 cd task-app
 npm install
 npx expo start
+---
 
 ## Structure du projet 📂
-```bash
+
 1.:
 task-app/
 ├── app/                     # Gestion des routes et des écrans
@@ -42,10 +43,9 @@ task-app/
 ├── package.json             # Dépendances et scripts
 ├── app.json                 # Configuration Expo
 └── README.md                # Documentation du projet
-
+---
  
-## INFO
+## À propos
 
-Développé par Nasserallah Khadli
-Challenge pour le poste de Mobile Developer.
-
+Développé par Nasrallah Khadli
+Challenge technique pour un poste de Mobile Developer.
