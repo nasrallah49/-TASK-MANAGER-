@@ -44,7 +44,7 @@ task-app/
 ├── [package.json](http://_vscodecontentref_/1)             # Dépendances et scripts
 ├── [app.json](http://_vscodecontentref_/2)                 # Configuration Expo
 └── [README.md](http://_vscodecontentref_/3)                # Documentation du projet
-
+---
 ##🛠️ Utilisation
 
 Ajouter une tâche :
@@ -58,14 +58,14 @@ Utilisez le menu déroulant "Filter" pour afficher les tâches par catégorie.
 Supprimer une tâche :
 
 Cliquez sur une tâche pour la marquer comme terminée ou la supprimer.
-
+---
 ##🛠️ Technologies utilisées
 
 React Native : Framework pour le développement mobile.
 Expo : Plateforme pour simplifier le développement React Native.
 TypeScript : Typage statique pour JavaScript.
 React Context : Gestion de l état global.
-
+---
 ##🙋‍♂️ À propos
 Développé par Nasrallah Khadli
 Challenge technique pour un poste de Mobile Developer.
